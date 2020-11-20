@@ -1,0 +1,14 @@
+{
+  "name": "avatar",
+  "version": "1.0.0",
+  "description": "My avatar",
+  "main": "index.js",
+  "scripts": {
+    "scss": "node-sass --watch scss -o css"
+  },
+  "author": "Julieth Gómez",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
